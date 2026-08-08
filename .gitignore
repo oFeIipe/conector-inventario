@@ -1,0 +1,17 @@
+## Visual Studio cache & temporary files
+.vs/
+.vscode/
+
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Others
+*.log
